@@ -1,0 +1,11 @@
+node_modules
+build
+dist
+
+.eslintcache
+coverage
+
+index.dev.ts
+index.html
+
+**/*-debug.log
