@@ -5,9 +5,9 @@ import {
   validateCreateObjects,
   validateDeleteObjects,
   validateCreateOrDeleteLinks,
-} from '@okiniri/validate';
+} from '@graphinite/validate';
 
-const DEFAULT_API_URL = 'https://europe-west1-okiniri-core.cloudfunctions.net/api_v0';
+const DEFAULT_API_URL = 'https://europe-west1-graphinite-core.cloudfunctions.net/api_v0';
 
 /** Override default options of the client */
 export interface GraphiniteClientOptions {

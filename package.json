@@ -1,7 +1,7 @@
 {
   "name": "@graphinite/sdk",
   "private": false,
-  "version": "2.0.4",
+  "version": "0.0.0",
   "description": "SDK for the Graphinite API.",
   "author": "pldespaigne",
   "license": "MIT",
@@ -41,7 +41,7 @@
     "webpack-cli": "^4.2.0"
   },
   "dependencies": {
-    "@okiniri/validate": "^1.0.0",
+    "@graphinite/validate": "^1.0.0",
     "ajv": "^7.0.2",
     "cross-fetch": "^3.0.6",
     "jsrsasign": "^10.1.4"
